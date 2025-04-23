@@ -20,9 +20,6 @@ The purpose of this branch is to showcase my contributions and the practical app
 - [تطبيق داركوم للأعمال](https://apps.apple.com/il/app/darcom-business-app/id6648768530)
 - [تطبيق داركوم](https://apps.apple.com/il/app/darcom-app/id6648766729)
 
-### الغرض:
-الغرض من هذا الفرع هو عرض مساهماتي والتطبيقات العملية التي شاركت فيها، مما يُظهر مهاراتي في تطوير البرمجيات.
 
 --- 
 
-إذا كان لديك أي تعديلات إضافية، فلا تتردد في إخباري!
